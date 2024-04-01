@@ -40,10 +40,6 @@
     {
       "type": "composer",
       "url": "https://nova.laravel.com"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/Fjonan/novafieldcheckboxes"
     }
   ],
   "extra": {
